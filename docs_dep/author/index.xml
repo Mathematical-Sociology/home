@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASA Mathematical Sociology</title>
+    <link>home/author/</link>
+    <description>Recent content on ASA Mathematical Sociology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="home/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>home/author/zack-almquist/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>home/author/zack-almquist/</guid>
+      <description>Zack W Almquist</description>
+    </item>
+    
+  </channel>
+</rss>
