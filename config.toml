@@ -165,7 +165,7 @@ publishDir = "docs"
 
 [[menu.main]]
 	name = "Links for Council"
-	url  = "https://drive.google.com/drive/folders/0AG-jlv_sU6GxUk9PVA)"
+	url  = "https://drive.google.com/drive/folders/0AG-jlv_sU6GxUk9PVA"
 	weight = 5	
 	
 [taxonomies]
