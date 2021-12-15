@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ASA Mathematical Sociology</title>
-    <link>Mathematical-Sociology/categories/brown-bag/</link>
+    <link>home/categories/brown-bag/</link>
     <description>Recent content on ASA Mathematical Sociology</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="Mathematical-Sociology/categories/brown-bag/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="home/categories/brown-bag/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

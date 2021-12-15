@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Structure of CDWG Events on ASA Mathematical Sociology</title>
-    <link>Mathematical-Sociology/categories/</link>
+    <link>home/categories/</link>
     <description>Recent content in Structure of CDWG Events on ASA Mathematical Sociology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="Mathematical-Sociology/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="home/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BB - Brown Bag</title>
-      <link>Mathematical-Sociology/categories/bb/</link>
+      <link>home/categories/bb/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>Mathematical-Sociology/categories/bb/</guid>
+      <guid>home/categories/bb/</guid>
       <description>BB is group meetings centered around group discussion or workshopping activities. This includes workshopping papers, research ideas, research plans etc. The first week of every quarter will be reserved for graduate students to write up a research plan for their graduate studies and/or updating their previously written plan.</description>
     </item>
     
     <item>
       <title>RT - Research Talk</title>
-      <link>Mathematical-Sociology/categories/rt/</link>
+      <link>home/categories/rt/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>Mathematical-Sociology/categories/rt/</guid>
+      <guid>home/categories/rt/</guid>
       <description>RT cover any area of current research that is of interest to computational demography (broadly defined).</description>
     </item>
     
     <item>
       <title>PD - Professional Development</title>
-      <link>Mathematical-Sociology/categories/pd/</link>
+      <link>home/categories/pd/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>Mathematical-Sociology/categories/pd/</guid>
+      <guid>home/categories/pd/</guid>
       <description>PD is group meetings centered around an internal or external speaker who will discuss oppertunities and experiences in academic, industry and non-profit sectors.</description>
     </item>
     
     <item>
       <title>WS - Workshops</title>
-      <link>Mathematical-Sociology/categories/other/</link>
+      <link>home/categories/other/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>Mathematical-Sociology/categories/other/</guid>
+      <guid>home/categories/other/</guid>
       <description>WS are dedicated to teaching new methods and models in demography and social sciences. This will focus on statistics and computational methods applied to demographic and health problems.</description>
     </item>
     
     <item>
       <title>M - Miscellaneous</title>
-      <link>Mathematical-Sociology/categories/ws/</link>
+      <link>home/categories/ws/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>Mathematical-Sociology/categories/ws/</guid>
+      <guid>home/categories/ws/</guid>
       <description>M are are uncatagorized activities that relate to Computational Demography.</description>
     </item>
     

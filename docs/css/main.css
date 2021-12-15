@@ -1589,7 +1589,7 @@
 		}
 
 	strong, b {
-		color: #787878;
+		color: #000000;
 		font-weight: 400;
 	}
 
@@ -1602,7 +1602,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #000000;
 		font-weight: 400;
 		line-height: 1em;
 	}
@@ -1750,7 +1750,7 @@
 	}
 
 	label {
-		color: #787878;
+		color: #000000;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 400;
@@ -1892,8 +1892,8 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #787878;
-			border-color: #787878;
+			background: #000000;
+			border-color: #000000;
 			color: #fff;
 			content: '\f00c';
 		}
@@ -2272,7 +2272,7 @@
 		}
 
 		table th {
-			color: #787878;
+			color: #000000;
 			font-size: 0.9em;
 			font-weight: 400;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2330,7 +2330,7 @@
 		background-color: transparent;
 		border-radius: 0.35em;
 		border: solid 3px #efefef;
-		color: #787878 !important;
+		color: #000000 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
@@ -3110,7 +3110,7 @@
 	.button {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		background-color: transparent;
-		color: #787878 !important;
+		color: #000000 !important;
 		padding: 0 1.5em;
 		margin: 0 0 1.5em 0;
 		text-align: center;

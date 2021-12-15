@@ -1,4 +1,4 @@
-baseurl = "https://mathematical-sociology.github.io/home/"
+baseurl = "/home/"
 languageCode = "en-us"
 title = "ASA Mathematical Sociology"
 theme = "hugo-strata-theme"
