@@ -1,4 +1,4 @@
-baseurl = "/Mathematical-Sociology/"
+baseurl = "/Mathematical-Sociology/home"
 languageCode = "en-us"
 title = "ASA Mathematical Sociology"
 theme = "hugo-strata-theme"
@@ -34,7 +34,7 @@ publishDir = "docs"
 		bio = "**ASA Mathematical Sociology Section Webpage**"
 		# The icons will be shown if you enter your username
 		twitter = ""
-		github = "mathematical-sociology"
+		github = "mathematical-sociology/"
 		gitlab = ""
 		dribbble = ""
 		facebook = ""
@@ -43,9 +43,9 @@ publishDir = "docs"
 		linkedin = ""
 
 		copyright = [
-			"&copy; [ASA Math Soc](//www.asanet.org/asa-communities/sections/mathematical-sociology)",
+			"&copy; [ASA Math Soc](http://www.asanet.org/asa-communities/sections/mathematical-sociology)",
 			"Design: [HTML5 UP](//html5up.net)",
-			"Background Image: [Network](//carterbutts.com/)"
+			"Background Image: [Network](http://carterbutts.com/)"
 		]
 
 
