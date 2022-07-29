@@ -26,7 +26,7 @@ Emma Spiro, University of Washington<br>
 <a class="twitter-timeline" href="https://twitter.com/Math_Sociology?ref_src=twsrc%5Etfw">Tweets by Math_Sociology</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Webpage Manager
-[Zack W. Almquist](http://depts.washington.edu/), Assistant Professor of Sociology and Senior Data Science Fellow, eScience Institute & Core Training Director CSDE
+[Zack W. Almquist](http://depts.washington.edu/), Associate Professor of Sociology, University of Washington
 
 
 

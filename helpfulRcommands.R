@@ -8,3 +8,4 @@ blogdown::build_site()
 
 setwd("docs")
 file.create('.nojekyll')
+setwd("..")

@@ -167,6 +167,11 @@ publishDir = "docs"
 	name = "Links for Council"
 	url  = "https://drive.google.com/drive/folders/0AG-jlv_sU6GxUk9PVA"
 	weight = 5	
+
+[[menu.main]]
+	name = "Journal of Mathematical Sociology"
+	url  = "https://www.tandfonline.com/journals/gmas20"
+	weight = 5	
 	
 [taxonomies]
   author = "author"
